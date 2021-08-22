@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
 
-const userName = "manasse";
-const password = "Serge1992";
-const database = "airdrop_NFT-QR";
+const userName = "premium";
+const password = "^Za2<4$GGX6z!Q5";
+const database = "newuserrrr";
 const port = ".mongodb.net/";
 const host = "@cluster0-lg7dq";
 
